@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "网页数据导出",
+  "version": "3.0",
+  "description": "右键导出当前页面的题目及解析为JSON文件或TXT文件",
+
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "scripting"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "icons": {
+    "32": "favicon-32x32.png"
+  }
+}

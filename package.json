@@ -1,0 +1,11 @@
+{
+  "name": "fbdll-scraper",
+  "version": "1.0.0",
+  "description": "Test harness for scraping sample exam HTML",
+  "scripts": {
+    "test:integration": "node ./scripts/integration_test_puppeteer.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^20.0.0"
+  }
+}
