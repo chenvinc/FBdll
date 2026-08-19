@@ -1,5 +1,7 @@
 # 粉笔题目导出插件（FBdll）
 
+> 📦 **最新版本下载**：[FBdll v1.0.0（插件压缩包）](https://github.com/chenvinc/FBdll/releases/download/v1.0.0/FBdll-v1.0.0.zip) ｜ [Release 发布页](https://github.com/chenvinc/FBdll/releases/tag/v1.0.0)
+
 一个适用于 **粉笔网** 的浏览器扩展（Microsoft Edge / Google Chrome 通用），通过右键菜单，将网页上的题目及解析一键导出为 **JSON**、**TXT** 或 **享道格式** 文件，方便备份、二次整理或导入其他系统。
 
 > 扩展名（manifest）：`网页数据导出`，版本 `3.0`。
